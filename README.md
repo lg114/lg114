@@ -1,3 +1,3 @@
-# Hi there 👋
-## 123
--->
+# Welcome to GC's GitHub
+## About me
+- University student 👨‍🎓
